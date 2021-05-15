@@ -6,7 +6,7 @@ Project supervisor: Tamar Rott Shaham, Idan Kligvasser
 
 Project Goal - Create an estimated image of a given sound source.
 
-##Architecture:
+## Architecture:
 
 ![Architecture](imgs/Architecture.png?raw=true "Architecture")
 
