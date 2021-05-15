@@ -6,7 +6,7 @@ Project supervisor: Tamar Rott Shaham, Idan Kligvasser.
 
 Project Goal - Create an estimated image of a given sound source.
 
-  * Git doesnt not include database, checkpoints and some other required files to run, only code.
+  * Git does not include databases, checkpoint's and some other required files to run, only code.
 
 ## Architecture
 
