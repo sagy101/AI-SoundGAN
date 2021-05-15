@@ -2,7 +2,7 @@
 
 Ongoing (strated at November 3) Final Project at the Technion - Israel Institute of Technology.
 
-Project supervisor: Tamar Rott Shaham, Idan Kligvasser
+Project supervisor: Tamar Rott Shaham, Idan Kligvasser.
 
 Project Goal - Create an estimated image of a given sound source.
 
