@@ -1,0 +1,12 @@
+relu3_1 results:
+different loss: tensor(2.5236, device='cuda:0')
+same loss: tensor(2.7145, device='cuda:0')
+loss ratio: tensor(0.9297, device='cuda:0')
+
+
+relu4_1 results:
+different loss: tensor(2.8874, device='cuda:0')
+same loss: tensor(3.1310, device='cuda:0')
+loss ratio: tensor(0.9222, device='cuda:0')
+
+

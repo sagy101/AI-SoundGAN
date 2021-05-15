@@ -1,0 +1,54 @@
+relu3_1 results:
+different loss: tensor(2.5290, device='cuda:0')
+same loss: tensor(2.7121, device='cuda:0')
+loss ratio: tensor(0.9325, device='cuda:0')
+
+
+relu4_1 results:
+different loss: tensor(2.8832, device='cuda:0')
+same loss: tensor(3.1256, device='cuda:0')
+loss ratio: tensor(0.9225, device='cuda:0')
+
+
+relu4_2 results:
+different loss: tensor(2.2415, device='cuda:0')
+same loss: tensor(2.3759, device='cuda:0')
+loss ratio: tensor(0.9434, device='cuda:0')
+
+
+relu4_3 results:
+different loss: tensor(1.7814, device='cuda:0')
+same loss: tensor(1.9208, device='cuda:0')
+loss ratio: tensor(0.9274, device='cuda:0')
+
+
+relu4_4 results:
+different loss: tensor(0.9218, device='cuda:0')
+same loss: tensor(1.0034, device='cuda:0')
+loss ratio: tensor(0.9186, device='cuda:0')
+
+
+relu5_1 results:
+different loss: tensor(1.4617, device='cuda:0')
+same loss: tensor(1.5113, device='cuda:0')
+loss ratio: tensor(0.9672, device='cuda:0')
+
+
+relu5_2 results:
+different loss: tensor(1.2609, device='cuda:0')
+same loss: tensor(1.2691, device='cuda:0')
+loss ratio: tensor(0.9935, device='cuda:0')
+
+
+relu5_3 results:
+different loss: tensor(0.9569, device='cuda:0')
+same loss: tensor(1.0264, device='cuda:0')
+loss ratio: tensor(0.9322, device='cuda:0')
+
+
+relu5_4 results:
+different loss: tensor(0.3985, device='cuda:0')
+same loss: tensor(0.3913, device='cuda:0')
+loss ratio: tensor(1.0183, device='cuda:0')
+
+

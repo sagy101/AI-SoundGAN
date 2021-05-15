@@ -1,0 +1,9 @@
+class trumpet: 0.9120521172638436
+class bassoon: 0.9990588235294118
+class cello: 1.0
+class flute: 0.9399848828420257
+class horn: 1.0
+class oboe: 1.0
+class sax: 0.8439882697947214
+class trombone: 1.0
+class violin: 0.9654925373134329
