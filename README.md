@@ -2,6 +2,8 @@
 
 Ongoing (strated at November 2020) Final Project at the Technion - Israel Institute of Technology.
 
+Project author's: Sagy Gersh, Yahav Vinokur (equal contribution).
+
 Project supervisor: Tamar Rott Shaham, Idan Kligvasser.
 
 Project Goal - Create an estimated image of a given sound source.
