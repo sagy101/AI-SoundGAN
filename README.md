@@ -1,8 +1,17 @@
 # SoundGAN - Seeing Sound: Estimating Image from Audio 
 
-Final Project at the Technion - Israel Institute of Technology.
+Ongoing (strated at November 3) Final Project at the Technion - Israel Institute of Technology.
 
-## Cite
+Project supervisor: Tamar Rott Shaham, Idan Kligvasser
+
+Project Goal - Create an estimated image of a given sound source.
+
+Architecture:
+
+![Architecture](imgs/architecture?raw=true "Architecture")
+
+
+## Cites
 
 [1] Qiuqiang Kong, Yin Cao, Turab Iqbal, Yuxuan Wang, Wenwu Wang, Mark D. Plumbley. "PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition." arXiv preprint arXiv:1912.10211 (2019).
 
