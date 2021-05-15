@@ -11,7 +11,7 @@ Project Goal - Create an estimated image of a given sound source.
   * Install requirements.txt with pip. 
   * Download sub-URMP dataset to destination folder - for training.
   * Download desired test data to test folder.
-  * Run run_SoundGan.py with desired mode (i.e generate, train, loss, audio classification, bigGAN and more)
+  * Run run_SoundGan.py with desired mode (i.e generate, train, loss, audio classification, bigGAN and more), check utils.py for more details on file arguments.
 
 ## Architecture
 
