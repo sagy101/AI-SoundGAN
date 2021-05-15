@@ -8,7 +8,7 @@ Project Goal - Create an estimated image of a given sound source.
 
 Architecture:
 
-![Architecture](imgs/architecture?raw=true "Architecture")
+![Architecture](imgs/architecture.jpg?raw=true "Architecture")
 
 
 ## Cites
