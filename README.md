@@ -1,6 +1,6 @@
 # SoundGAN - Seeing Sound: Estimating Image from Audio 
 
-Ongoing (strated at November 3) Final Project at the Technion - Israel Institute of Technology.
+Ongoing (strated at November 2020) Final Project at the Technion - Israel Institute of Technology.
 
 Project supervisor: Tamar Rott Shaham, Idan Kligvasser.
 
