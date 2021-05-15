@@ -1,4 +1,6 @@
-# SoundGAN
+# SoundGAN - Seeing Sound: Estimating Image from Audio 
+
+Final Project at the Technion - Israel Institute of Technology.
 
 ## Cite
 
