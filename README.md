@@ -8,11 +8,4 @@
 
 [3] B. Li, X. Liu, K. Dinesh, Z. Duan and G. Sharma. Creating A Musical Performance Dataset for Multimodal Music Analysis: Challenges, Insights, and Applications. arXiv:1612.08727, 2016. (The original URMP dataset paper.) 
 
-[4]@inproceedings{
-brock2018large,
-title={Large Scale {GAN} Training for High Fidelity Natural Image Synthesis},
-author={Andrew Brock and Jeff Donahue and Karen Simonyan},
-booktitle={International Conference on Learning Representations},
-year={2019},
-url={https://openreview.net/forum?id=B1xsqj09Fm},
-}
+[4] Andrew Brock, Jeff Donahue, Karen Simonyan. [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)
